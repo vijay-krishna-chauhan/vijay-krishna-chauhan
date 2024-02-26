@@ -25,7 +25,7 @@ Hi there! I'm Vijay Krishna Chauhan, a passionate web developer with a love for 
 
 Here are a few projects that I'm particularly proud of:
 
-### Recipe Information([Link to Repository](https://github.com/vijay-krishna-chauhan/recipeapp-frontend.git))
+### Recipe Information([Link to Repository](https://recipeappfontend.onrender.com/))
 Description: Implemented a full-stack web application using the MERN technology stack. Integrated the Mealdb
 API to enable users to search for meals based on their preferences.
 Developed a user-friendly interface allowing users to easily add or remove meals from their favorites
